@@ -10,16 +10,17 @@ Hope this is helpful to you!
 
 ## Versions
 
+- 1.3 - 16th August - Support added for commenting entries in config file - creates a dummy sync file explicity now
 - 1.2 - 5th August - Merged Selva's contribution - we now check for existence of a doc before downloading a new copy
 - 1.1 - 31st July - Accept inputs with only folder name and device name - TRM and ERRATA will be skipped
-- 1.0 - 24th July - Base version - tested by Chander Goel (a0393626) - works - takes 15 mins on a fast network
+- 1.0 - 24th July - Base version - first test on a Windows PC - works - takes 15 mins on a fast network
 
 ## Pre-requisites
 ### Software
 - Python3
   - Additional Python3 packages (manual)
-    - requests (to install, execute `pip3 install requests`
-    - pandas (to install, execute `pip3 install pandas`
+    - requests (to install, execute `pip3 install requests`)
+    - pandas to (install, execute `pip3 install pandas`)
   - Additional Python3 packages (using requirements.txt)
     - pip3 install -r requirements.txt --proxy=\<if you need a proxy\>
 
