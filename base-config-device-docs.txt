@@ -1,6 +1,8 @@
 # I am a comment!
 am243x,am2434,spruim2,sprz457
-am263x,am2634,spruj42,sprz488
+am263x,am2634,spruj17,sprz488
+am263x,am263p4,spruj55,sprz570
+am261x,am2612,sprujb6,sprz576
 am62xx,am625,spruiv7,sprz487
 am62xx,am625sip,spruiv7,sprz487
 am64xx,am6442,spruim2,sprz457
@@ -16,6 +18,7 @@ f280013x,tms320f2800137,spruix1,sprz506
 f280015x,tms320f2800157,spruiy4,sprz507
 f28p55x,tms320f28p559sj-q1,spruj53,sprz572
 f28p65x,tms320f28p659dk-q1,spruiz1,sprz545
+f29h85x,f29h850tu,spruj79,sprz569
 mspm0,mspm0l1306,slau847,slaz741
 mspm0,mspm0l1105,slau847,slaz741
 mspm0,mspm0l228,slau847,slaz755
@@ -24,8 +27,13 @@ mspm0,mspm0g3507,slau846,slaz742
 mspm0,mspm0g3107,slau846,slaz742
 mspm0,mspm0g1507,slau846,slaz742
 mspm0,mspm0g1107,slau846,slaz742
+mspm0,mspm0g3519,slau846,slaz758
 cc23xx,cc2340r5,swcu193,swrz134
+cc27xx,cc2745r10-q1,swcu195,swrz161
 cc13xx_26xx,cc2674r10,swcu194,swrz129
 cc13xx_26xx,cc2674p10
 cc13xx_26xx,cc1354r10,swcu194,swrz132
 cc13xx_26xx,cc1354p10
+tda4,tda4vp-q1,spruj52,sprz536
+tda4,tda4ven-q1,sprujb3,sprz575
+dra,dra821u,spruiu1,sprz491

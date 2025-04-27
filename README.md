@@ -10,6 +10,10 @@ Hope this is helpful to you!
 
 ## Versions
 
+2025
+- 1.4 - 27th April - Modified config for F29x, DRA8x and some TDA4 devices
+
+2024
 - 1.3 - 16th August - Support added for commenting entries in config file - creates a dummy sync file explicity now
 - 1.2 - 5th August - Merged Selva's contribution - we now check for existence of a doc before downloading a new copy
 - 1.1 - 31st July - Accept inputs with only folder name and device name - TRM and ERRATA will be skipped
@@ -24,16 +28,15 @@ Hope this is helpful to you!
   - Additional Python3 packages (using requirements.txt)
     - pip3 install -r requirements.txt --proxy=\<if you need a proxy\>
 
-*You are responsible for internet connectvity - we don't check for connectivity in the script)*
+*You are responsible for internet connectvity - we don't check for connectivity in the script*
 
 ## Usage
 
-0. **[OPTIONAL]** If you are making a new config, ensure that each row is in the below format
+0. **[OPTIONAL]** If you are making a new config, ensure that each row is in the below format - provide the right path path to this new config in `ti-docs-syncer.py`
     - family,device-name,trm-name,errata-name
-1. In epfae-docs-syncer.py, perform **TODO Step 1**
-2. In epfae-docs-synder.py, perform **TODO Step 2**
-3. To run the script, execute: `python3 epfae-docs-syncer.py`
-4. Observe logs!
+1. Handle TODOs in `ti-docs-syncer.py` - DO NOT PROCEED WITHOUT THIS!
+2. To run the script, execute: `python3 ti-docs-syncer.py`
+3. Observe logs!
 
 **NOTE: Do not delete folders or docs manually unless absolutely necessary. If you need to do this, also delete the corresponding entry from the syncFileNames.csv file.**
 
